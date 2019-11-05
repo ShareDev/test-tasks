@@ -1,0 +1,28 @@
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/FileMonitor
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/FileMonitor.deps.json
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/FileMonitor.runtimeconfig.json
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/FileMonitor.runtimeconfig.dev.json
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/FileMonitor.dll
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/FileMonitor.pdb
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/obj/Debug/netcoreapp3.0/FileMonitor.csprojAssemblyReference.cache
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/obj/Debug/netcoreapp3.0/FileMonitor.AssemblyInfoInputs.cache
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/obj/Debug/netcoreapp3.0/FileMonitor.AssemblyInfo.cs
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/obj/Debug/netcoreapp3.0/FileMonitor.dll
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/obj/Debug/netcoreapp3.0/FileMonitor.pdb
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/Users/albert.gaitkulov/Projects/Test projects/Code architecture test/FileMonitor/FileMonitor/obj/Debug/netcoreapp3.0/FileMonitor.csproj.CopyComplete
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\obj\Debug\netcoreapp3.0\FileMonitor.csprojAssemblyReference.cache
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\obj\Debug\netcoreapp3.0\FileMonitor.AssemblyInfoInputs.cache
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\obj\Debug\netcoreapp3.0\FileMonitor.AssemblyInfo.cs
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\obj\Debug\netcoreapp3.0\FileMonitor.dll
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\obj\Debug\netcoreapp3.0\FileMonitor.pdb
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\FileMonitor.exe
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\FileMonitor.deps.json
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\FileMonitor.runtimeconfig.json
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\FileMonitor.runtimeconfig.dev.json
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\FileMonitor.dll
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\FileMonitor.pdb
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\gaytkulov_aa\source\repos\FileMonitor\FileMonitor\obj\Debug\netcoreapp3.0\FileMonitor.csproj.CopyComplete
